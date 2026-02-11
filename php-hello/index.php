@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <div class="container mt-5">
     <div class="card shadow p-4" style="max-width:400px; margin:auto; border-radius:10px;">
-        <h3 class="text-center mb-3">User Registration</h3>
+        <h3 class="text-center mb-3">My User Registration</h3>
 
         <!-- Display message if set -->
         <?php if ($message): ?>
